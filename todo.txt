@@ -1,1 +1,1 @@
-{"pending":[{"value":"water the plants"}],"done":[{"value":"the thing i need to do"},{"value":"find needle in the haystack"}]}
+{"pending":["water the plants"],"done":["the thing i need to do","find needle in the haystack"]}
